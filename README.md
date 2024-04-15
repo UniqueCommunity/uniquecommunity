@@ -1,13 +1,15 @@
 💫 𝑾𝑬𝑳𝑪𝑶𝑴𝑬 𝑻𝑶 𝑼𝒏𝒊𝒒𝒖𝒆𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚 :
 ===============================
 
-Fivem Developer & Web Developer
+Fivem Developer & Web Developer & Discord Bot Developer
 -----------------------------
 
 *   🚀  I’m currently working on FiveM Server & Discord Bot & website Project!
 *   🤝  I’m looking to collaborate on FiveM & Web Projects
   
-### 🌐 Socials:            
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/V9zUxhvRFe ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/amir.__moghadam_/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCXfAdwGy2uE7qpXOpNENa1g) 
+
 ### Skills
 <p align="left">
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
