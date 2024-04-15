@@ -8,7 +8,7 @@ Fivem Developer & Web Developer & Discord Bot Developer
 *   🤝  I’m looking to collaborate on FiveM & Web Projects
   
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/V9zUxhvRFe ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/amir.__moghadam_/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCXfAdwGy2uE7qpXOpNENa1g) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TB59fye3Pw ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCXfAdwGy2uE7qpXOpNENa1g) 
 
 ### Skills
 <p align="left">
