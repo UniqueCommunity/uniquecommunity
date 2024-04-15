@@ -13,7 +13,7 @@ Fivem Developer & Web Developer & Discord Bot Developer
 
 ### Skills
 <p align="left">
-  <a href="https://lua.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fcf%2FLua-Logo.svg%2F947px-Lua-Logo.svg.png&tbnid=irjQH79HyNgsOM&vet=12ahUKEwj0gbfJ_8SFAxWMUKQEHXIrDlgQMygAegQIARBF..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALua-Logo.svg" width="36" height="36" alt="lua" /></a>
+  <a href="https://lua.org/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Lua-Logo.svg" width="36" height="36" alt="lua" /></a>
     <a href="https://java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
