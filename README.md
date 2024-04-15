@@ -1,12 +1,11 @@
-        💫 About Me:
+💫 𝑾𝑬𝑳𝑪𝑶𝑴𝑬 𝑻𝑶 𝑼𝒏𝒊𝒒𝒖𝒆𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚 :
 ===============================
 
-Developer & Lecturer
+Fivem Developer & Web Developer
 -----------------------------
 
-*   🖥️  See my portfolio at [badrnezhad.com](https://badrnezhad.com)
-*   🚀  I'm currently working on [Holosen](https://holosen.net)
-*   🤝  I'm open to collaborating on interesting projects as a web and android developer
+*   🚀  I’m currently working on FiveM Server & Discord Bot & website Project!
+*   🤝  I’m looking to collaborate on FiveM & Web Projects 
 
 <a href="https://www.twitter.com/badrnezhad" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/badrnezhad?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
